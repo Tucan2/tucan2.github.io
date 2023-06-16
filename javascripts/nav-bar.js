@@ -3,7 +3,7 @@ const template = document.createElement('template');
 template.innerHTML = `
   <header id="site-header"> 
     <img id="headerimg" src="/images/library.jpg" height="125px" width="250">
-    <a id="website-title" href="https://newarklibraryleague.tucanzoom.repl.co"> Newark Library League </a>
+    <a id="website-title" href="https://tucan2.github.io"> Newark Library League </a>
     
     <section id="navbar">
       <nav class="navbar navbar-expand-lg navbar-light pt-5 pb-5" style="background-color: white">
