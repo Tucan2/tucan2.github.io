@@ -1,0 +1,140 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  font-family: sans-serif;
+  overscroll-behavior: none;
+}
+
+h1 {
+  padding: 20px;
+  text-align: center;
+  color: black;
+  padding-top: 40px;
+}
+
+#headerimg {
+  padding: 20px;
+  margin-top: 1px;
+}
+
+#description {
+  text-align: center;
+  color:  black;
+  margin-top: 0px;
+  height: 900px;
+  overflow: hidden;
+}
+
+#description img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;  
+}
+
+#description-text {
+  position: absolute;
+  font-size: 2rem;
+  margin-top: 350px;
+  background-color: rgba(173, 216, 230, 0.85);
+  margin-left: 100px;
+  margin-right: 40px;
+}
+
+#nav {
+  display: flex;
+  align-self: right;
+  align-items: down;
+}
+
+#nav-list {
+  list-style: none;
+}
+
+#site-header {
+  display: flex;
+  flex-direction: row;
+}
+
+#website-title {
+  color: black;
+  font-size: 40px;
+  font-style: normal;
+  text-decoration: none;
+  margin-top: 35px;
+}
+
+#mission-statement {
+  font-size: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#history {
+  font-size: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#contact {
+  font-size: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#Alan-Nagy-bio {
+  margin-left: 40px;
+  margin-right: 20px;
+}
+
+#board-members {
+  margin-right: 60px;
+  margin-left: 60px;
+  font-size: 20px;
+}
+
+#programs {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#section-header {
+  float: left;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  text-align: left !important;
+  width: 95%;
+  clear: left;
+  border-top: 2px solid #BEBEBE;
+  border-bottom: 2px solid #BEBEBE;
+  border-color: rgba(0,0,0,.05);
+  font-size: 25px;
+}
+
+#mission-statement, #history {
+  width: 55%;
+}
+
+#volunteer {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#activites-list {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#volunteer-howto {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#bookart3 {
+  margin-right: 150px;
+}
+
+#donate {
+  margin-left: 60px;
+}
