@@ -2,7 +2,7 @@ const template = document.createElement('template');
 
 template.innerHTML = `
   <header id="site-header"> 
-    <img id="headerimg" src="/images/library.jpg" height="125px" width="250">
+    <img id="headerimg" src="/images/logo.jpg" height="125px" width="250">
     <a id="website-title" href="https://tucan2.github.io"> Newark Library League </a>
     
     <section id="navbar">
